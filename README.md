@@ -1,4 +1,4 @@
-# Music Genre Classification with Deep Learning
+# Music Genre Classification with Convolutional Neural Networks
 
 ## Abstract
 Since 2002, music genre classification system has beenintroduced as a pattern recognition task. So far, numerous researches and studies have been conducted to increase
@@ -33,12 +33,13 @@ dense layers.
 
 ![img](sample images/Model.png) 
 
-##Validation
+## Validation
+
 We have used the GTZAN database to train the model. For neural network training, 80% of GTZAN database was used for training (12000 samples for training) and the rest 20% (3200 samples) were used for neural network testing and validating.
 
 ![img](sample images/Validation.png) 
 
-##Confustion Matrix (Result)
+## Confustion Matrix (Result)
 For showing the result we have used confusion matrix.
 
 ![img](sample images/confusion.png) 
