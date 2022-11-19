@@ -1,0 +1,8 @@
+pydub==0.25.1
+speechRecognition==3.8.1
+matplotlib==3.6.1
+numpy==1.19.5
+librosa==0.9.2
+sklearn==0.0.post1
+tensorflow==2.10.0
+keras==2.10.0

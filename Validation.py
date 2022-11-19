@@ -1,0 +1,21 @@
+#Validation
+
+plt.plot(history_cnn.history['accuracy'], c="r", label="CNN - train set")
+plt.plot(history_cnn.history["val_accuracy"], c="b", linestyle="--", label="CNN - test set")
+plt.legend()
+plt.title("Evolution of the learning of both models")
+plt.xlabel("Epochs")
+plt.ylabel("Accuracy")
+plt.xlim(0, 40)
+plt.ylim(0, 1)
+plt.show()
+
+#plt.figure(figsize=(20,12))
+plt.plot(history_cnn.history["loss"], c="r", label="CNN - train set")
+plt.plot(history_cnn.history["val_loss"], c="b", linestyle="--", label="CNN - test set")
+plt.title("Evolution of the learning of both models")
+plt.xlabel("Epochs")
+plt.ylabel("Loss")
+plt.xlim(0, 40)
+plt.ylim(0, 1)
+plt.show()
