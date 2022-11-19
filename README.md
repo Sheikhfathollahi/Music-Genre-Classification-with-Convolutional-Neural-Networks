@@ -37,12 +37,12 @@ dense layers.
 
 We have used the GTZAN database to train the model. For neural network training, 80% of GTZAN database was used for training (12000 samples for training) and the rest 20% (3200 samples) were used for neural network testing and validating.
 
-![img](sample images/Validation.png) 
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/Validation.png) 
 
 ## Confustion Matrix (Result)
 For showing the result we have used confusion matrix.
 
-![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/Confusion%20matrix.py) 
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/confusion.png) 
 
 
 ## Install requirements
