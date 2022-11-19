@@ -30,7 +30,7 @@ The system contains 14 layers including the input layer and dense fully connecte
 In our experiment, we applied dropout regularization after every pooling layer to avoid over-fitting and feature co-adaptation. Rectified linear unit (ReLUs) are used as the activation function in all convolutional and
 dense layers.
 
-![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/Model.png) 
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/Model.png) 
 
 ## Validation
 
