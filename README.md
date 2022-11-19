@@ -15,12 +15,12 @@ Actually, the Mel-spectrogram is the Mel-scaled spectrogram.
 Mel-Spectrogram represents an acoustic time–frequency representation of a sound: the power spectral density P (f, t). It is sampled into a number of points around equally spaced times
 ti and frequencies fj(on a Mel frequency scale). The Mel frequency scale is defined as:
 
-![img]([sample images/mel.png](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/mel.png))
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/mel.png)
 
 
 And its inverse is:
 
-![img]([/sample images/inverse_mel.png](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/inverse_mel.png))
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/inverse_mel.png)
 
 ```bash
 ![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/melspectrogram.png)
