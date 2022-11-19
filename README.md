@@ -3,7 +3,6 @@
 ## Abstract
 Since 2002, music genre classification system has beenintroduced as a pattern recognition task. So far, numerous researches and studies have been conducted to increase
 the accuracy and reduce the complexity in this field. In this project we designed a model which takes the spectogram of music pieces as an input and analyzes the image using a Convolutional Neural Network (CNN). The output of the system is a vector of predicted genres for the song.  
-this app can run in real-time on both smartphones and laptops.
 
 ## Chunks
 To train our model, we used the GTZAN database. First, we chunked each 30-second music piece into smaller three-second music clips with a 50% overlap.
