@@ -7,7 +7,7 @@ the accuracy and reduce the complexity in this field. In this project we designe
 ## Chunks
 To train our model, we used the GTZAN database. First, we chunked each 30-second music piece into smaller three-second music clips with a 50% overlap.
 
-![img]([sample images/Chunk.png](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/Chunk.png))
+![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/Chunk.png)
 
 
 ## Feature Extraction (Mel spectrogram)
