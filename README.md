@@ -20,10 +20,10 @@ ti and frequencies fj(on a Mel frequency scale). The Mel frequency scale is defi
 
 And its inverse is:
 
-![img](sample images/inverse_mel.png)
+![img](/sample images/inverse_mel.png)
 
 ```bash
-![img](melspectrogram.png)
+![img](/sample images/melspectrogram.png)
 ```
 ## Model
 
@@ -31,7 +31,7 @@ The system contains 14 layers including the input layer and dense fully connecte
 In our experiment, we applied dropout regularization after every pooling layer to avoid over-fitting and feature co-adaptation. Rectified linear unit (ReLUs) are used as the activation function in all convolutional and
 dense layers.
 
-![img](sample images/Model.png) 
+![img](/sample images/Model.png) 
 
 ## Validation
 
