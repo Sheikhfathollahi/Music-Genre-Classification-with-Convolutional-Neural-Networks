@@ -22,9 +22,9 @@ And its inverse is:
 
 ![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/inverse_mel.png)
 
-```bash
+
 ![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/melspectrogram.png)
-```
+
 ## Model
 
 The system contains 14 layers including the input layer and dense fully connected layers. The inputs are the acoustic features that are extracted from the audio signal.
