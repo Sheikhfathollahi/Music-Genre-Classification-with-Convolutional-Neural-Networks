@@ -39,7 +39,7 @@ We have used the GTZAN database to train the model. For neural network training,
 
 ![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/Validation.png) 
 
-## Confustion Matrix (Result)
+## Confusion Matrix (Result)
 For showing the result we have used confusion matrix.
 
 ![img](https://github.com/Sheikhfathollahi/Music-Genre-Classificatio-with-Convolutional-Neural-Networks/blob/main/sample%20images/confusion.png) 
